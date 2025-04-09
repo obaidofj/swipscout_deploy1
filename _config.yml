@@ -1,0 +1,3 @@
+include:
+  - _404.html
+permalink: pretty
